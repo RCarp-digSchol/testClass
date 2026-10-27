@@ -1,2 +1,2 @@
 # testClass
-this is just a test
+(Link to page)[https://rcarp-digschol.github.io/testClass/]
